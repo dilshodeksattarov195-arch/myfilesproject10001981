@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usereave",
+        "uuid": 5984601,
+        "checksum": "qi9tig"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
